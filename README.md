@@ -2,7 +2,7 @@
 
 This git contains the code examples from this article, 
 [JavaScript Module Pattern In Depth](http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth)
-
+Written by [Ben Cherry](http://twitter.com/bcherry), 2010-03-12
 ## Usage
   
 The files in this repository are enumerated from a to z allowing you to navigate between them in the order they appear in the article.
@@ -15,7 +15,7 @@ This repository was created to provide a developer with some boilerplate code to
 
 ## Patters / Examples
 
-* [a.anonymous-closure.js](blob/master/a.anonymous-closure.js)
+* a.anonymous-closure.js
 * b.module-export.js
 * c.augmentation.js
 * d.loose-augmentation.js
