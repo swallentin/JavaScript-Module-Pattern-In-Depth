@@ -15,7 +15,7 @@ This repository was created to provide a developer with some boilerplate code to
 
 ## Patters / Examples
 
-* a.anonymous-closure.js
+* [a.anonymous-closure.js](blob/master/a.anonymous-closure.js)
 * b.module-export.js
 * c.augmentation.js
 * d.loose-augmentation.js
