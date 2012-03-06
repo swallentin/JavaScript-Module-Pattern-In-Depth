@@ -2,16 +2,13 @@
 
 This git contains the code examples from this article, 
 [JavaScript Module Pattern In Depth](http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth)
-Written by [Ben Cherry](http://twitter.com/bcherry), 2010-03-12
+
+Written by [Ben Cherry](http://twitter.com/bcherry) in 2010-03-12
 ## Usage
   
 The files in this repository are enumerated from a to z allowing you to navigate between them in the order they appear in the article.
 
 Each file contains detailed commentary for each concept.
-
-## Purpose
-
-This repository was created to provide a developer with some boilerplate code to use when you bump into situations where the following patterns can be beneficial.
 
 ## Patters / Examples
 
@@ -20,3 +17,7 @@ This repository was created to provide a developer with some boilerplate code to
 * c.augmentation.js
 * d.loose-augmentation.js
 * e.tight-augmentation.hs
+
+## Purpose
+
+This repository was created to provide a developer with some boilerplate code to use when you bump into situations where the following patterns can be beneficial.
